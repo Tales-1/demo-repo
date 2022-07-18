@@ -1,3 +1,3 @@
 # Demo
 
-Some random description of my project
+Some random description of my projects!
